@@ -1,0 +1,29 @@
+{
+  "name": "number-formatter-test",
+  "version": "0.0.1",
+  "description": "number formatter for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhweeant/number-formatter.git"
+  },
+  "keywords": [
+    "number-formatter"
+  ],
+  "author": "Ant zhwee <anton.zhwee@gmail.com> (http://spiritsummoner.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhweeant/number-formatter/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "homepage": "https://github.com/zhweeant/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
